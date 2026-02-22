@@ -4,27 +4,27 @@
     "version": "4eda5cb0"
   },
   "products": [
-    { "id": 1, "name": "Sofa Set", "category": "home", "price": 12500.50, "stock": 2, "rating": 4.4 },
-    { "id": 2, "name": "Dining Table", "category": "home", "price": 15499.20, "stock": 1, "rating": 4.2 },
-    { "id": 3, "name": "Floor Lamp", "category": "home", "price": 2345.00, "stock": 5, "rating": 4.1 },
+    { "id": "001", "name": "Sofa Set", "category": "home", "price": 12500.50, "stock": 2, "rating": 4.4 },
+    { "id": "002", "name": "Dining Table", "category": "home", "price": 15499.20, "stock": 1, "rating": 4.2 },
+    { "id": "003", "name": "Floor Lamp", "category": "home", "price": 2345.00, "stock": 5, "rating": 4.1 },
 
-    { "id": 4, "name": "Laptop", "category": "electronics", "price": 55999.00, "stock": 6, "rating": 4.6 },
-    { "id": 5, "name": "Wireless Mouse", "category": "electronics", "price": 899.00, "stock": 30, "rating": 4.3 },
-    { "id": 6, "name": "Keyboard", "category": "electronics", "price": 1299.00, "stock": 25, "rating": 4.2 },
-    { "id": 7, "name": "Monitor", "category": "electronics", "price": 10999.00, "stock": 10, "rating": 4.5 },
+    { "id": "004", "name": "Laptop", "category": "electronics", "price": 55999.00, "stock": 6, "rating": 4.6 },
+    { "id": "005", "name": "Wireless Mouse", "category": "electronics", "price": 899.00, "stock": 30, "rating": 4.3 },
+    { "id": "006", "name": "Keyboard", "category": "electronics", "price": 1299.00, "stock": 25, "rating": 4.2 },
+    { "id": "007", "name": "Monitor", "category": "electronics", "price": 10999.00, "stock": 10, "rating": 4.5 },
 
-    { "id": 8, "name": "T-Shirt", "category": "fashion", "price": 699.00, "stock": 50, "rating": 4.0 },
-    { "id": 9, "name": "Jeans", "category": "fashion", "price": 1999.00, "stock": 20, "rating": 4.2 },
-    { "id": 10, "name": "Jacket", "category": "fashion", "price": 3499.00, "stock": 15, "rating": 4.4 },
-    { "id": 11, "name": "Sneakers", "category": "fashion", "price": 4999.00, "stock": 12, "rating": 4.5 },
+    { "id": "008", "name": "T-Shirt", "category": "fashion", "price": 699.00, "stock": 50, "rating": 4.0 },
+    { "id": "009", "name": "Jeans", "category": "fashion", "price": 1999.00, "stock": 20, "rating": 4.2 },
+    { "id": "010", "name": "Jacket", "category": "fashion", "price": 3499.00, "stock": 15, "rating": 4.4 },
+    { "id": "011", "name": "Sneakers", "category": "fashion", "price": 4999.00, "stock": 12, "rating": 4.5 },
 
-    { "id": 12, "name": "Notebook", "category": "stationery", "price": 99.00, "stock": 200, "rating": 4.1 },
-    { "id": 13, "name": "Pen Pack", "category": "stationery", "price": 149.00, "stock": 150, "rating": 4.0 },
-    { "id": 14, "name": "Backpack", "category": "stationery", "price": 1999.00, "stock": 25, "rating": 4.3 },
+    { "id": "012", "name": "Notebook", "category": "stationery", "price": 99.00, "stock": 200, "rating": 4.1 },
+    { "id": "013", "name": "Pen Pack", "category": "stationery", "price": 149.00, "stock": 150, "rating": 4.0 },
+    { "id": "014", "name": "Backpack", "category": "stationery", "price": 1999.00, "stock": 25, "rating": 4.3 },
 
-    { "id": 15, "name": "Water Bottle", "category": "accessories", "price": 499.00, "stock": 40, "rating": 4.2 },
-    { "id": 16, "name": "Sunglasses", "category": "accessories", "price": 1599.00, "stock": 18, "rating": 4.4 },
-    { "id": 17, "name": "Wallet", "category": "accessories", "price": 1299.00, "stock": 22, "rating": 4.3 }
+    { "id": "015", "name": "Water Bottle", "category": "accessories", "price": 499.00, "stock": 40, "rating": 4.2 },
+    { "id": "016", "name": "Sunglasses", "category": "accessories", "price": 1599.00, "stock": 18, "rating": 4.4 },
+    { "id": "017", "name": "Wallet", "category": "accessories", "price": 1299.00, "stock": 22, "rating": 4.3 }
   ],
   "aggregations": {
     "home": {

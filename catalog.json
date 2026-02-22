@@ -4,7 +4,7 @@
     "version": "4eda5cb0"
   },
   "products": [
-    { "id": "001", "name": "Sofa Set", "category": "home", "price": 12500.50, "stock": 2, "rating": 4.4 },
+    { "id": 001, "name": "Sofa Set", "category": "home", "price": 12500.50, "stock": 2, "rating": 4.4 },
     { "id": "002", "name": "Dining Table", "category": "home", "price": 15499.20, "stock": 1, "rating": 4.2 },
     { "id": "003", "name": "Floor Lamp", "category": "home", "price": 2345.00, "stock": 5, "rating": 4.1 },
 
